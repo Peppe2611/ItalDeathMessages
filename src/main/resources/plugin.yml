@@ -1,0 +1,5 @@
+name: ItalDeathMessages
+version: '${project.version}'
+main: me.peppe.italdeathmessages.ItalDeathMessages
+authors: [ Peppe2611 ]
+description: ItalPvP custom death messages
